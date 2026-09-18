@@ -1,0 +1,1 @@
+This is a dns spoofer code without UI, you can take this and add UI too.This Python script monitors network traffic on a specified interface to detect and intercept DNS queries for a targeted domain name. Upon identifying a matching request, it automatically crafts and sends a custom DNS response to resolve the domain to a predefined IP address.
